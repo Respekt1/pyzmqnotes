@@ -32,6 +32,7 @@ Please use `make <target>' where <target> is one of
   linkcheck  to check all external links for integrity
   doctest    to run all doctests embedded in the documentation (if enabled)
 ⟫ make latexpdf
+⟫ xdg-open ./build/latex/index.pdf
 ```
 
 
